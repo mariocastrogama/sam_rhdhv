@@ -10,6 +10,8 @@ SAM (Smart Asset Management) is a Python package for *timeseries analysis*, *ano
 
 The documentation is available on [ReadTheDocs](https://sam-rhdhv.readthedocs.io/en/latest/).
 
+Codebase: [Visual Codebase](https://mango-dune-07a8b7110.1.azurestaticapps.net/?repo=RoyalHaskoningDHV%2Fsam)
+
 Author: [Royal HaskoningDHV](https://global.royalhaskoningdhv.com/)
 
 Email: [ruben.peters@rhdhv.com](mailto:ruben.peters@rhdhv.com)
